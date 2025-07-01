@@ -1,0 +1,7 @@
+site:
+  title: Artur Gurgul - {{article.title}}
+remote:
+  type: ssh
+  user: debian
+  host: artur.gurgul.pro
+  path: /var/www/artur.gurgul.pro
